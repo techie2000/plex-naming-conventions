@@ -17,6 +17,14 @@ There are differnt options available - putting the extra in to type folders, or 
       foobar2 (year) {tmdb-tt7654321}.mkv
       poster.jpg
       poster-2.jpg
+      art.jpg
+      art-2.jpg
+      backdrop.jpg
+      backdrop-2.jpg
+      background.jpg
+      background-2.jpg
+      fanart.jpg
+      fanart-2.jpg
   /TV Shows
     /Show name (year)
       /Season 01
