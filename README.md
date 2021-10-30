@@ -62,5 +62,7 @@ There are differnt options available - putting the extra in to type folders, or 
     /Yet Another Show name (year)
       /Season 01
         Yet Another Show name (year) – S01E01-E02 - [other] [info] [goes] [here].mkv
+        Yet Another Show name (year) – S01E03 - pt1 - [other] [info] [goes] [here].mkv
+        Yet Another Show name (year) – S01E03 - pt2 - [other] [info] [goes] [here].mkv
   ```
   
