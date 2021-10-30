@@ -6,9 +6,10 @@ There are differnt options available - putting the extra in to type folders, or 
 /Media
   /Movies
     /Move name (year) {imdb-tt1234567}
-      Move name (year) {imdb-tt1234567}.mkv
-      Move name (year) {imdb-tt1234567}.en.srt
-      Move name (year) {imdb-tt1234567}.fra.srt
+      Move name (year) {imdb-tt1234567} - [other] [info] [goes] [here] [1080p].mkv
+      Move name (year) {imdb-tt1234567} - [other] [info] [goes] [here] [1080p].en.srt
+      Move name (year) {imdb-tt1234567} - [other] [info] [goes] [here] [1080p].fra.srt
+      Move name (year) {imdb-tt1234567} - [other] [info] [goes] [here] [2160].mkv
       poster.jpg
       poster-2.jpg
       art.jpg
@@ -19,6 +20,8 @@ There are differnt options available - putting the extra in to type folders, or 
       background-2.jpg
       fanart.jpg
       fanart-2.jpg
+    /Move name (year) {imdb-tt1234567} - Directors Cut
+      Move name (year) {imdb-tt1234567} - Directors Cut - [other] [info] [goes] [here] [1080p].mkv
     /foobar (year) {tmdb-tt7654321}
       foobar (year) {tmdb-tt7654321}.mp4
   /TV Shows
@@ -26,16 +29,16 @@ There are differnt options available - putting the extra in to type folders, or 
       Interview with show writer-interview.mkv
       Interview with show director-interview.mkv
       /Season 01
-        Show name (year) - S01E01 - The Beginning.mkv
-        Show name (year) - S01E01 - The Beginning-beindthescenes.mkv
-        Show name (year) - S01E01 - The Beginning-deleted1.mkv
-        Show name (year) - S01E01 - The Beginning-deleted2.mkv
-        Show name (year) - S01E01 - The Beginning-featurette.mkv
-        Show name (year) - S01E01 - The Beginning-interview.mkv
-        Show name (year) - S01E01 - The Beginning-scene.mkv
-        Show name (year) - S01E01 - The Beginning-short.mkv
-        Show name (year) - S01E01 - The Beginning-trailer.mkv
-        Show name (year) - S01E01 - The Beginning-other.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here].mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-beindthescenes.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-deleted1.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-deleted2.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-featurette.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-interview.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-scene.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-short.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-trailer.mkv
+        Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-other.mkv
       /Behind The Scenes
         A look at season 1.mkv
         Season 1 Deleted Scenes-deleted.mkv
@@ -52,4 +55,3 @@ There are differnt options available - putting the extra in to type folders, or 
         Trailer 1.mkv
         Trailer 2.mkv
   ```
- 
