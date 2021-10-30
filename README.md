@@ -54,4 +54,7 @@ There are differnt options available - putting the extra in to type folders, or 
       /Trailers
         Trailer 1.mkv
         Trailer 2.mkv
+    /Another Show name (year)
+      Another Show name – 2021-10-30 – [other] [info] [goes] [here].mkv
   ```
+  
