@@ -59,5 +59,8 @@ There are differnt options available - putting the extra in to type folders, or 
         Trailer 2.mkv
     /Another Show name (year)
       Another Show name – 2021-10-30 – [other] [info] [goes] [here].mkv
+    /Yet Another Show name (year)
+      /Season 01
+        Yet Another Show name (year) – S01E01-E02 - [other] [info] [goes] [here].mkv
   ```
   
