@@ -28,6 +28,9 @@ There are differnt options available - putting the extra in to type folders, or 
     /Show name (year)
       Interview with show writer-interview.mkv
       Interview with show director-interview.mkv
+      /Specials
+        Show name (year) - S00E01 - Before The Beginning.mkv
+        Show name (year) - S00E02 - An Alternative View of the Beginning.mkv
       /Season 01
         Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here].mkv
         Show name (year) - S01E01 - The Beginning - [other] [info] [goes] [here]-beindthescenes.mkv
