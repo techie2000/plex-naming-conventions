@@ -23,7 +23,8 @@ There are differnt options available - putting the extra in to type folders, or 
     /Move name (year) {imdb-tt1234567} - Directors Cut
       Move name (year) {imdb-tt1234567} - Directors Cut - [other] [info] [goes] [here] [1080p].mkv
     /foobar (year) {tmdb-tt7654321}
-      foobar (year) {tmdb-tt7654321}.mp4
+      foobar (year) {tmdb-tt7654321} - part1.mp4
+      foobar (year) {tmdb-tt7654321} - part2.mp4
   /TV Shows
     /Show name (year)
       Interview with show writer-interview.mkv
